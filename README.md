@@ -1,5 +1,5 @@
 # mei
-simple spu karaoke pack file unpacker
+simple spu karaoke pack file (LKKPK001) unpacker
 
 간단한 spu 가라오케 팩 추출기 (python3)
 
